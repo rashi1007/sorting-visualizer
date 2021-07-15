@@ -1,0 +1,86 @@
+.mySlides { 
+    display: none; 
+} 
+  
+body { 
+    background-color: black; 
+    font-family: Verdana, sans-serif; 
+} 
+  
+.head { 
+    margin-top: 20px; 
+    margin-right: 20px; 
+    margin-left: 20px; 
+    text-align: center; 
+    font-size: 30px; 
+    background-color: black; 
+    color: white; 
+    border-radius: 19px; 
+    font-weight: bolder; 
+} 
+  
+.data-container { 
+    height: 475px;
+    position: relative;
+    margin-left: 160px;
+} 
+  
+.bar { 
+    width: 28px; 
+    top: 40px;
+    position: absolute; 
+    background-color: gray; 
+    transition: 0.2s all ease; 
+} 
+
+.btn1 { 
+    padding: 12px; 
+    font-weight: bolder; 
+    background-color:  rgb(16, 124, 156); 
+    border-radius: 10px; 
+    color: black; 
+    font-size: 16px; 
+    border: white; 
+    margin-top: 30px;
+    margin-left: 340px;
+} 
+.btn2 { 
+    padding: 12px; 
+    font-weight: bolder; 
+    background-color:  rgb(16, 124, 156); 
+    border-radius: 10px; 
+    color: black; 
+    font-size: 16px; 
+    border: white; 
+    margin: 30px 50px; 
+}
+.btn3 { 
+    padding: 12px; 
+    font-weight: bolder; 
+    background-color:  rgb(16, 124, 156); 
+    border-radius: 10px; 
+    color: black; 
+    font-size: 16px; 
+    border: white; 
+    margin: 30px 20px; 
+}
+.btn4 { 
+    padding: 12px; 
+    font-weight: bolder; 
+    background-color: rgb(16, 124, 156); 
+    border-radius: 10px; 
+    color: black; 
+    font-size: 16px; 
+    border: white; 
+    margin: 30px 30px; 
+}
+.btn5 { 
+    padding: 12px; 
+    font-weight: bolder; 
+    background-color: rgb(16, 124, 156); 
+    border-radius: 10px; 
+    color: black; 
+    font-size: 16px; 
+    border: white; 
+    margin: 30px 30px; 
+}
